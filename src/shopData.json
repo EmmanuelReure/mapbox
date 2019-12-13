@@ -1,0 +1,29 @@
+{
+    "type": "shops",
+    "shops": [
+        {
+            "type": "shop",
+            "properties": {
+                "SHOP_ID": 100,
+                "name": "bio rouge",
+                "address": "46 rue albert thomas"
+            },
+            "geometry": {
+                "coordinates" : [48.870380, 2.362110]
+            }
+        },
+
+        {
+            "type": "shop",
+            "properties": {
+                "SHOP_ID": 101,
+                "name": "buble",
+                "address": "28 Rue Saint Maure 75011 Paris"
+            },
+            "geometry": {
+                "coordinates" : [48.87038048, 2.370230]
+            }
+        }
+
+    ]
+}
